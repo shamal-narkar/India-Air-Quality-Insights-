@@ -1,4 +1,4 @@
-🌍** India Air Quality Insights: A Data-Driven Perspective** 🌍
+🌍***India Air Quality Insights: A Data-Driven Perspective 🌍
 
 Air pollution is one of the most pressing environmental challenges in India, 
 
