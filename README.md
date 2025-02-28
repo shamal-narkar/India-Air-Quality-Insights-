@@ -1,6 +1,10 @@
-🌍 India Air Quality Insights: A Data-Driven Perspective 🌍
+🌍** India Air Quality Insights: A Data-Driven Perspective** 🌍
 
-Air pollution is one of the most pressing environmental challenges in India, impacting millions of lives daily. To better understand regional air quality trends, I developed this interactive India Air Quality Dashboard 📊.
+Air pollution is one of the most pressing environmental challenges in India, 
+
+impacting millions of lives daily. To better understand regional air quality trends, 
+
+I developed this interactive India Air Quality Dashboard 📊.
 
 🔎 Key Insights from the Dashboard:
 ✅ Mumbai & Delhi have the highest AQI levels, signaling severe air pollution risks.
