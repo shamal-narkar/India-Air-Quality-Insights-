@@ -7,3 +7,5 @@ Air pollution is one of the most pressing environmental challenges in India, imp
 ✅ Seasonal variations play a crucial role in air quality fluctuations.
 ✅ PM2.5 & PM10 distribution highlights major pollution hotspots.
 ✅ Understanding AQI vs. Health Advisory Levels helps assess potential health risks.
+
+![image](https://github.com/user-attachments/assets/acd25748-cb23-444a-9611-95374b015207)
